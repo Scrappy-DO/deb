@@ -1,2 +1,2 @@
 # deb
-Vs code
+all.desktop files
